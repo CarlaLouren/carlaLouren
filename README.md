@@ -1,4 +1,4 @@
-Olá!,eu sou Carla lourenço 😊
+Olá! eu sou Carla lourenço 😊
 
 
 - 👩‍💻 Atualmente estudante-análises e desenvolvimento de sistemas.
