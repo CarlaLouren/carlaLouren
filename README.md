@@ -34,3 +34,4 @@ Javascript/nodejs/html/css
  <br>
  <img src="https://komarev.com/ghpvc/?username=CarlaLourenço&color=green" alt="carlaLouren" /> 
 </div>
+  ![Snake animation](https://github.com/CarlaLouren/CarlaLouren/blob/output/github-contribution-grid-snake.svg)
